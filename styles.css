@@ -1,0 +1,11 @@
+/* background vignette similar to the mockup without extra images */
+body {
+  background: radial-gradient(
+      1200px 600px at 50% -200px,
+      rgba(255, 255, 255, 0.35) 0%,
+      rgba(255, 255, 255, 0.15) 20%,
+      rgba(30, 0, 40, 0.6) 65%,
+      rgba(15, 0, 25, 0.9) 100%
+    )
+    fixed;
+}
